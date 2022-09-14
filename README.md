@@ -1,6 +1,5 @@
-# Twitter_Stuff
-Random chunks of code
-
+# Twitter Procrastination  
+R code to generate (mostly random) figures that I picture in my head.
 
 
 
